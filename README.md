@@ -181,6 +181,3 @@ The project can be further improved by:
 
 B.Tech Bioinformatics
 
-## 📄 License
-
-This project is created for educational and portfolio purposes.
